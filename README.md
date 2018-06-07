@@ -1,12 +1,13 @@
 
-# FIG: Fix Interest Group Charter
+# FIG: Fix Interest Group Readme
 The mission of the Fix Interest Group (FIG) is ...
 
 [Link to join FIG (TBD).]()
 
 | Start date | June 7 2018 |
+| ---------- | ----------- |
 | End date   | TBD |
-| Chairs | TBD |
+| Chairs     | TBD |
 | Team Contacts| Michael Cooper, Shadi Abou-Zahra, Shawn Lawton Henry |
 | Meeting Schedule | TBD |
 
@@ -18,36 +19,20 @@ The group will: ...
 
 ### Out of Scope
 The following features are out of scope, and will not be addressed by this group.
+
 ### Success Criteria
 TBD
 
 ## Deliverables
 A detailed plan to achieve these milestones along with updates to the timeline is documented below.
 
-### Normative Specifications
-FIG will deliver the following W3C normative (?) specifications:
-
-TBD
-
-## Other Deliverables
-TBD
-
 ### Milestones
-TBD
-
-## Coordination
 TBD
 
 ## Participation
 TBD
 
 ## Communication
-
-
-## Decision Policy
-TBD
-
-## Patent Policy
 
 
 ## Licensing
