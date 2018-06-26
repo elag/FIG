@@ -58,9 +58,9 @@ Why are we writing this Fix specification instead of using such transform specif
 
 ### Current Participants:
 - [Christina Harlow](http://github.com/cmh2166/)
-- Patrick Hochstenbach
-- Nics
+- [Nicolas Steenlant](https://github.com/nics)
 - [Johann Rolschewski](https://github.com/jorol/)
+- [Patrick Hochstenbach](https://github.com/phochste)
 - Others as invited, with the goal to have people who can do at least 2 implementations of this work
 
 
