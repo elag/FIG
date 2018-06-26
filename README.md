@@ -60,7 +60,7 @@ Why are we writing this Fix specification instead of using such transform specif
 - [Christina Harlow](http://github.com/cmh2166/)
 - Patrick Hochstenbach
 - Nics
-- Johols
+- [Johann Rolschewski](https://github.com/jorol/)
 - Others as invited, with the goal to have people who can do at least 2 implementations of this work
 
 
