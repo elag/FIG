@@ -43,6 +43,9 @@ lido_date(
     -latest_date_type:   latestDate.type
 )
 ```
+
+List of all Catmandu fixes: [Catmandu_Fix.md](https://github.com/elag/FIG/blob/master/Catmandu_Fix.md).
+
 ## Motivations for this Work
 
 Why are we writing this Fix specification instead of using such transform specifications as already exist? We have a few reasons:
